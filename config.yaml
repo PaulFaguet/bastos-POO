@@ -1,0 +1,75 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ObiWan:
+      email: obiwan@deathstar.fr
+      name: ObiWan
+      password: $2b$12$a7/RM5ZqrE1T0MxZE.cNo.dQgjow8.IwARQgsKYgapAFVxhy9FG4S
+    Vador:
+      email: vador@order66.com
+      name: Vador
+      password: $2b$12$7wdwpYuB6ceb40t2itto3eCTOc0DZtNLNldcvOG5bonWZsrmB6c0i
+    faguzer:
+      email: faguzer
+      name: faguzer
+      password: $2b$12$UkA8XRHp2o.uAbDjG9CR.O6b2/m0nb.TZRiAn0AQCuAnt4I9rH1Na
+    fagzz:
+      email: fagzz
+      name: fagzz
+      password: $2b$12$Fi.PLplVp.MPqBuvDqBPlutKaf2D7Z6PU9Dc3ajks4V6M8tkAYsai
+    pfaguz:
+      email: pfaguz
+      name: pfaguz
+      password: $2b$12$oJ1nUFmy5M7r0.mpIy.zaONMIFQMlB7jFb8cy/lqsGl/QT1bPMjf2
+    pfagz:
+      email: pfagz@gmail.com
+      name: pfagz
+      password: $2b$12$yi7VwMdzsxXuDu2J7emL1ujFpvkDKCtjJjRmQbD8SXBfc4FrwibSO
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$so.A1ZCofCALAon.kmxm1eryRCTtIFHy0bViSxhqsENuxnKrAUxgO
+    role:
+      email: role
+      name: role
+      password: $2b$12$zCU68W4ySTD.A0Hmz6on1OvInpkcQ/ehBIDSPOtJPvvyKaOA/BjeO
+    tess:
+      email: tess
+      name: tess
+      password: $2b$12$0wzq/BC2QbaqmPA81/fhUumugGzrUgiVPKh/5MPjrQT1t.Le7xtAW
+    tessa:
+      email: tessa
+      name: tessa
+      password: $2b$12$X9QkjYersrNf73.9f61mWuMfvU9SFzAdj6mpmp.MUu2.oNgHL9l1S
+    testUnique:
+      email: testUnique
+      name: testUnique
+      password: $2b$12$D5qIwS7sOzw/38XqQ/R0O.l0lMF/3VzbORBBuaCS1JUvWWy0WYGmS
+    uzzzer:
+      email: uzzzer
+      name: uzzzer
+      password: $2b$12$5djvQ0/iNDzHnD3kvLOt8erenUBM.6ha5LZQ0mA9aEVkk7VFnq..u
+preauthorized:
+  emails:
+  - melsby@gmail.com
+  - pfagz
+  - pfaguz
+  - fagzz
+  - grimzz
+  - faguzer@gmail.com
+  - faguzer
+  - test
+  - test
+  - test
+  - user
+  - test
+  - tess
+  - tessa
+  - uzzzer
+  - testUnique
+  - role
+  - obiwan@deathstar.fr
+  - vador@order66.com
